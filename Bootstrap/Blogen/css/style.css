@@ -1,0 +1,74 @@
+html {
+  height: 100vh;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.fas {
+  margin-right: 0.5rem;
+}
+
+.container {
+  padding: 0rem 2rem !important;
+}
+
+#main-header .fas {
+  margin-right: 0.5rem;
+}
+
+#main-header .form-group {
+  padding-bottom: 1.5rem !important;
+}
+
+#main-header .form-group label {
+  padding-bottom: 0.5rem !important;
+}
+
+#dashboard .d-flex {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#dashboard .card.cag {
+  margin-bottom: 1rem !important;
+  margin: auto;
+  width: 85%;
+}
+
+#dashboard .fas {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  margin-right: 1.5rem;
+}
+
+#dashboard span {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+#dashboard .fas.fa-angle-double-right {
+  margin-right: 0.3rem;
+  padding: 0px;
+}
+
+#dashboard .table {
+  margin-bottom: 0;
+}
+
+#dashboard .table td {
+  padding: 0.9rem -1rem;
+}
+
+#dashboard .modal-dialog {
+  width: 800px;
+}
+
+.w-space {
+  white-space: nowrap;
+}

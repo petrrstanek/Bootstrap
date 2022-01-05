@@ -1,0 +1,63 @@
+html {
+	height: 100vh;
+	margin: 0;
+	box-sizing: border-box;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+.fas {
+	margin-right: 0.5rem;
+}
+.container {
+	padding: 0rem 2rem !important;
+}
+
+#main-header {
+	.fas {
+		margin-right: 0.5rem;
+	}
+	.form-group {
+		padding-bottom: 1.5rem !important;
+	}
+	.form-group label {
+		padding-bottom: 0.5rem !important;
+	}
+}
+
+#dashboard {
+	.d-flex {
+		justify-content: center;
+	}
+
+	.card.cag {
+		margin-bottom: 1rem !important;
+		margin: auto;
+		width: 85%;
+	}
+	.fas {
+		align-self: center;
+		margin-right: 1.5rem;
+	}
+	span {
+		align-self: center;
+	}
+	.fas.fa-angle-double-right {
+		margin-right: 0.3rem;
+		padding: 0px;
+	}
+
+	.table {
+		margin-bottom: 0;
+	}
+	.table td {
+		padding: 0.9rem -1rem;
+	}
+	.modal-dialog {
+		width: 800px;
+	}
+}
+
+.w-space {
+	white-space: nowrap;
+}

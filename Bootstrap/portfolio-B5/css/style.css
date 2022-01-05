@@ -1,0 +1,11 @@
+.row {
+  --bs-gutter-x: 0 !important ;
+}
+
+.btn {
+  border-radius: 0 !important;
+}
+
+a:hover {
+  opacity: 0.8;
+}

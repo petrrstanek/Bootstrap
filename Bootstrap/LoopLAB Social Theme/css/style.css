@@ -1,0 +1,30 @@
+html {
+	scroll-behavior: smooth;
+}
+.fas {
+	background-color: #fafafa;
+	color: #155fca;
+	font-size: 30px;
+	border-radius: 5px;
+	padding: 4px;
+}
+
+#home {
+	background-size: cover;
+	background-image: url('../img/home.jpg');
+	background-color: rgba(0, 0, 0, 0.6);
+	background-blend-mode: multiply;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.navbar {
+	border-bottom: 5px solid #4992fd;
+}
+
+#home .padd {
+	padding-top: 150px;
+}
+#home .pb {
+	padding-bottom: 150px !important;
+}
